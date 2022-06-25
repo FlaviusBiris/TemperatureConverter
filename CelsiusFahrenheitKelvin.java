@@ -1,4 +1,4 @@
-//Fac o aplicatie care sa converteasca temperaturile din celsius, fahrenheitm kelvin
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
